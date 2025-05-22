@@ -1,0 +1,195 @@
+##gff-version 3
+##sequence-region MF959544.1_HSV1-PattonUs11gfp 1 152543
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	284	1394	.	+	.	ID=RL1;Name=RL1;gbkey=Gene;gene=RL1;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	284	1394	.	+	.	ID=mRNA.RL1-1;Name=RL1-1;Parent=RL1;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	284	1394	.	+	.	ID=exon1;Parent=mRNA.RL1-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	379	1089	.	+	0	ID=cds-ALO18595.1;Parent=mRNA.RL1-1;gbkey=CDS;gene=RL1;product=neurovirulence factor ICP34.5;protein_id=ALO18595.1
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	1955	5572	.	+	.	ID=RL2;Name=RL2;gbkey=Gene;gene=RL2;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	1955	5572	.	+	.	ID=mRNA.RL2-1;Name=RL2-1;Parent=RL2;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	1955	2147	.	+	.	ID=exon1;Parent=mRNA.RL2-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	2895	3558	.	+	.	ID=exon2;Parent=mRNA.RL2-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	3694	5572	.	+	.	ID=exon3;Parent=mRNA.RL2-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	2091	2147	.	+	0	ID=cds-ALO18596.1;Parent=mRNA.RL2-1;gbkey=CDS;gene=RL2;product=ubiquitin E3 ligase ICP0;protein_id=ALO18596.1
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	2895	3558	.	+	0	ID=cds-ALO18596.1;Parent=mRNA.RL2-1;gbkey=CDS;gene=RL2;product=ubiquitin E3 ligase ICP0;protein_id=ALO18596.1
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	3694	5351	.	+	2	ID=cds-ALO18596.1;Parent=mRNA.RL2-1;gbkey=CDS;gene=RL2;product=ubiquitin E3 ligase ICP0;protein_id=ALO18596.1
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	9279	11772	.	+	.	ID=UL1/2/3;Name=UL1/2/3;gbkey=Gene;gene=UL1/2/3;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	9279	10995	.	+	.	ID=mRNA.UL1-1;Name=UL1-1;Parent=UL1/2/3;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	9772	10995	.	+	.	ID=mRNA.UL2-1;Name=UL2-1;Parent=UL1/2/3;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	11013	11772	.	+	.	ID=mRNA.UL3-1;Name=UL3-1;Parent=UL1/2/3;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	9279	10995	.	+	.	ID=exon1;Parent=mRNA.UL1-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	9772	10995	.	+	.	ID=exon1;Parent=mRNA.UL2-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	11013	11772	.	+	.	ID=exon1;Parent=mRNA.UL3-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	9360	10034	.	+	0	ID=cds-ALO18597.1;Parent=mRNA.UL1-1;gbkey=CDS;gene=UL1;product=envelope glycoprotein L;protein_id=ALO18597.1
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	9907	10911	.	+	0	ID=cds-ALO18598.1;Parent=mRNA.UL2-1;gbkey=CDS;gene=UL2;product=uracil-DNA glycosylase;protein_id=ALO18598.1
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	11013	11687	.	+	0	ID=cds-ALO18599.1;Parent=mRNA.UL3-1;gbkey=CDS;gene=UL3;product=nuclear protein UL3;protein_id=ALO18599.1
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	15080	18087	.	+	.	ID=UL6/7;Name=UL6/7;gbkey=Gene;gene=UL6/7;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	15080	18087	.	+	.	ID=mRNA.UL6-1;Name=UL6-1;Parent=UL6/7;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	16990	18087	.	+	.	ID=mRNA.UL7-1;Name=UL7-1;Parent=UL6/7;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	15080	18087	.	+	.	ID=exon1;Parent=mRNA.UL6-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	16990	18087	.	+	.	ID=exon1;Parent=mRNA.UL7-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	15152	17182	.	+	0	ID=cds-ALO18602.1;Parent=mRNA.UL6-1;gbkey=CDS;gene=UL6;product=capsid portal protein;protein_id=ALO18602.1
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	17157	18047	.	+	0	ID=cds-ALO18603.1;Parent=mRNA.UL7-1;gbkey=CDS;gene=UL7;product=tegument protein UL7;protein_id=ALO18603.1
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	22978	24690	.	+	.	ID=UL10;Name=UL10;gbkey=Gene;gene=UL10;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	22978	24690	.	+	.	ID=mRNA.UL10-1;Name=UL10-1;Parent=UL10;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	23062	24690	.	+	.	ID=mRNA.UL10-2;Name=UL10-2;Parent=UL10;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	22978	24690	.	+	.	ID=exon1;Parent=mRNA.UL10-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	23062	24690	.	+	.	ID=exon1;Parent=mRNA.UL10-2;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	23226	24647	.	+	0	ID=cds-ALO18606.1;Parent=mRNA.UL10-1;gbkey=CDS;gene=UL10;product=envelope glycoprotein M;protein_id=ALO18606.1
+#MF959544.1_HSV1-PattonUs11gfp	SB	CDS	23226	24647	.	+	0	ID=cds-ALO18606.1;Parent=mRNA.UL10-2;gbkey=CDS;gene=UL10;product=envelope glycoprotein M;protein_id=ALO18606.1
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	28826	34861	.	+	.	ID=UL15;Name=UL15;gbkey=Gene;gene=UL15;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	28826	34861	.	+	.	ID=mRNA.UL15-1;Name=UL15-1;Parent=UL15;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	28826	30062	.	+	.	ID=exon1;Parent=mRNA.UL15-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	33653	34861	.	+	.	ID=exon2;Parent=mRNA.UL15-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	29034	30062	.	+	0	ID=cds-ALO18611.1;Parent=mRNA.UL15-1;gbkey=CDS;gene=UL15;product=DNA packaging terminase subunit 1;protein_id=ALO18611.1
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	33653	34831	.	+	0	ID=cds-ALO18611.1;Parent=mRNA.UL15-1;gbkey=CDS;gene=UL15;product=DNA packaging terminase subunit 1;protein_id=ALO18611.1
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	41895	43731	.	+	.	ID=UL21;Name=UL21;gbkey=Gene;gene=UL21;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	41895	43731	.	+	.	ID=mRNA.UL21-1;Name=UL21-1;Parent=UL21;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	41895	43731	.	+	.	ID=exon1;Parent=mRNA.UL21-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	42094	43701	.	+	0	ID=cds-ALO18617.1;Parent=mRNA.UL21-1;gbkey=CDS;gene=UL21;product=tegument protein UL21;protein_id=ALO18617.1
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	47435	48790	.	+	.	ID=UL24;Name=UL24;gbkey=Gene;gene=UL24;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	47435	48790	.	+	.	ID=mRNA.UL24-1;Name=UL24-1;Parent=UL24;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	47435	48790	.	+	.	ID=exon1;Parent=mRNA.UL24-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	47754	48563	.	+	0	ID=cds-ALO18620.1;Parent=mRNA.UL24-1;gbkey=CDS;gene=UL24;product=nuclear protein UL24;protein_id=ALO18620.1
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	48657	52806	.	+	.	ID=UL25/26;Name=UL25/26;gbkey=Gene;gene=UL25/26;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	48657	52806	.	+	.	ID=mRNA.UL25-1;Name=UL25-1;Parent=UL25/26;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	50823	52806	.	+	.	ID=mRNA.UL26-1;Name=UL26-1;Parent=UL25/26;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	51661	52806	.	+	.	ID=mRNA.UL26-2;Name=UL26-2;Parent=UL25/26;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	48657	52806	.	+	.	ID=exon1;Parent=mRNA.UL25-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	50823	52806	.	+	.	ID=exon1;Parent=mRNA.UL26-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	51661	52806	.	+	.	ID=exon1;Parent=mRNA.UL26-2;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	48829	50571	.	+	0	ID=cds-ALO18621.1;Parent=mRNA.UL25-1;gbkey=CDS;gene=UL25;product=DNA packaging tegument protein UL25;protein_id=ALO18621.1
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	50823	52730	.	+	0	ID=cds-ALO18622.1;Parent=mRNA.UL26-1;gbkey=CDS;gene=UL26;product=capsid maturation protease;protein_id=ALO18622.1
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	51741	52730	.	+	0	ID=cds-ALO18623.1;Parent=mRNA.UL26-2;gbkey=CDS;gene=UL26.5;product=capsid scaffold protein;protein_id=ALO18623.1
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	62613	66579	.	+	.	ID=UL30;Name=UL30;gbkey=Gene;gene=UL30;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	62613	66579	.	+	.	ID=mRNA.UL30-1;Name=UL30-1;Parent=UL30;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	62613	66579	.	+	.	ID=exon1;Parent=mRNA.UL30-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	62804	66511	.	+	0	ID=cds-ALO18627.1;Parent=mRNA.UL30-1;gbkey=CDS;gene=UL30;product=DNA polymerase catalytic subunit;protein_id=ALO18627.1
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	69073	70959	.	+	.	ID=UL33/34/35;Name=UL33/34/35;gbkey=Gene;gene=UL33/34/35;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	69073	70959	.	+	.	ID=mRNA.UL33-1;Name=UL33-1;Parent=UL33/34/35;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	69457	70959	.	+	.	ID=mRNA.UL34-1;Name=UL34-1;Parent=UL33/34/35;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	70495	70959	.	+	.	ID=mRNA.UL35-1;Name=UL35-1;Parent=UL33/34/35;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	69073	70959	.	+	.	ID=exon1;Parent=mRNA.UL33-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	69457	70959	.	+	.	ID=exon1;Parent=mRNA.UL34-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	70495	70959	.	+	.	ID=exon1;Parent=mRNA.UL35-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	69158	69550	.	+	0	ID=cds-ALO18630.1;Parent=mRNA.UL33-1;gbkey=CDS;gene=UL33;product=DNA packaging protein UL33;protein_id=ALO18630.1
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	69630	70457	.	+	0	ID=cds-ALO18631.1;Parent=mRNA.UL34-1;gbkey=CDS;gene=UL34;product=nuclear egress membrane protein;protein_id=ALO18631.1
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	70563	70901	.	+	0	ID=cds-ALO18632.1;Parent=mRNA.UL35-1;gbkey=CDS;gene=UL35;product=small capsid protein;protein_id=ALO18632.1
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	84308	85924	.	+	.	ID=UL38;Name=UL38;gbkey=Gene;gene=UL38;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	84308	85924	.	+	.	ID=mRNA.UL38-1;Name=UL38-1;Parent=UL38;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	84308	85924	.	+	.	ID=exon1;Parent=mRNA.UL38-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	84417	85814	.	+	0	ID=cds-ALO18635.1;Parent=mRNA.UL38-1;gbkey=CDS;gene=UL38;product=capsid triplex subunit 1;protein_id=ALO18635.1
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	86115	90885	.	+	.	ID=UL39/40;Name=UL39/40;gbkey=Gene;gene=UL39/40;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	86115	90885	.	+	.	ID=mRNA.UL39-1;Name=UL39-1;Parent=UL39/40;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	89672	90885	.	+	.	ID=mRNA.UL40-1;Name=UL40-1;Parent=UL39/40;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	86115	90885	.	+	.	ID=exon1;Parent=mRNA.UL39-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	89672	90885	.	+	.	ID=exon1;Parent=mRNA.UL40-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	86328	89741	.	+	0	ID=cds-ALO18636.1;Parent=mRNA.UL39-1;gbkey=CDS;gene=UL39;product=ribonucleotide reductase subunit 1;protein_id=ALO18636.1
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	89810	90832	.	+	0	ID=cds-ALO18637.1;Parent=mRNA.UL40-1;gbkey=CDS;gene=UL40;product=ribonucleotide reductase subunit 2;protein_id=ALO18637.1
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	92832	94540	.	+	.	ID=UL42;Name=UL42;gbkey=Gene;gene=UL42;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	92832	94540	.	+	.	ID=mRNA.UL42-1;Name=UL42-1;Parent=UL42;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	92832	94540	.	+	.	ID=exon1;Parent=mRNA.UL42-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	92997	94463	.	+	0	ID=cds-ALO18639.1;Parent=mRNA.UL42-1;gbkey=CDS;gene=UL42;product=DNA polymerase processivity subunit;protein_id=ALO18639.1
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	94663	95974	.	+	.	ID=UL43;Name=UL43;gbkey=Gene;gene=UL43;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	94663	95974	.	+	.	ID=mRNA.UL43-1;Name=UL43-1;Parent=UL43;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	94663	95974	.	+	.	ID=exon1;Parent=mRNA.UL43-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	94685	95932	.	+	0	ID=cds-ALO18640.1;Parent=mRNA.UL43-1;gbkey=CDS;gene=UL43;product=envelope protein UL43;protein_id=ALO18640.1
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	96063	98587	.	+	.	ID=UL44/45;Name=UL44/45;gbkey=Gene;gene=UL44/45;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	96063	98587	.	+	.	ID=mRNA.UL44-1;Name=UL44-1;Parent=UL44/45;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	97850	98587	.	+	.	ID=mRNA.UL45-1;Name=UL45-1;Parent=UL44/45;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	96063	98587	.	+	.	ID=exon1;Parent=mRNA.UL44-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	97850	98587	.	+	.	ID=exon1;Parent=mRNA.UL45-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	96193	97728	.	+	0	ID=cds-ALO18641.1;Parent=mRNA.UL44-1;gbkey=CDS;gene=UL44;product=envelope glycoprotein C;protein_id=ALO18641.1
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	97916	98434	.	+	0	ID=cds-ALO18642.1;Parent=mRNA.UL45-1;gbkey=CDS;gene=UL45;product=membrane protein UL45;protein_id=ALO18642.1
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	106731	108064	.	+	.	ID=UL50;Name=UL50;gbkey=Gene;gene=UL50;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	106731	108064	.	+	.	ID=mRNA.UL50-1;Name=UL50-1;Parent=UL50;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	106731	108064	.	+	.	ID=exon1;Parent=mRNA.UL50-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	106900	108015	.	+	0	ID=cds-ALO18648.1;Parent=mRNA.UL50-1;gbkey=CDS;gene=UL50;product=deoxyuridine triphosphatase;protein_id=ALO18648.1
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	108888	113352	.	+	.	ID=UL52/53;Name=UL52/53;gbkey=Gene;gene=UL52/53;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	108888	113352	.	+	.	ID=mRNA.UL52-1;Name=UL52-1;Parent=UL52/53;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	111663	113352	.	+	.	ID=mRNA.UL53-1;Name=UL53-1;Parent=UL52/53;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	108888	113352	.	+	.	ID=exon1;Parent=mRNA.UL52-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	111663	113352	.	+	.	ID=exon1;Parent=mRNA.UL53-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	108938	112114	.	+	0	ID=cds-ALO18650.1;Parent=mRNA.UL52-1;gbkey=CDS;gene=UL52;product=helicase-primase primase subunit;protein_id=ALO18650.1
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	112069	113085	.	+	0	ID=cds-ALO18651.1;Parent=mRNA.UL53-1;gbkey=CDS;gene=UL53;product=envelope glycoprotein K;protein_id=ALO18651.1
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	113503	115191	.	+	.	ID=UL54;Name=UL54;gbkey=Gene;gene=UL54;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	113503	115191	.	+	.	ID=mRNA.UL54-1;Name=UL54-1;Parent=UL54;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	113503	115191	.	+	.	ID=exon1;Parent=mRNA.UL54-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	113624	115162	.	+	0	ID=cds-ALO18652.1;Parent=mRNA.UL54-1;gbkey=CDS;gene=UL54;product=multifunctional expression regulator;protein_id=ALO18652.1
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	115348	116012	.	+	.	ID=UL55;Name=UL55;gbkey=Gene;gene=UL55;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	115348	116012	.	+	.	ID=mRNA.UL55-1;Name=UL55-1;Parent=UL55;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	115348	116012	.	+	.	ID=exon1;Parent=mRNA.UL55-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	115386	115946	.	+	0	ID=cds-ALO18653.1;Parent=mRNA.UL55-1;gbkey=CDS;gene=UL55;product=nuclear protein UL55;protein_id=ALO18653.1
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	118843	126755	.	+	.	ID=LAT;Name=LAT;gbkey=Gene;gene=LAT;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	118843	126755	.	+	.	ID=mRNA.LAT-1;Name=LAT-1;Parent=LAT;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	119518	121470	.	+	.	ID=mRNA.LAT-2;Name=LAT-2kb-intron;Parent=LAT;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	119518	121470	.	+	.	ID=mRNA.LAT-3;Name=LAT-1.5kb-intron;Parent=LAT;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	118843	119517	.	+	.	ID=exon1;Parent=mRNA.LAT-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	121471	126755	.	+	.	ID=exon2;Parent=mRNA.LAT-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	119518	121470	.	+	.	ID=exon1;Parent=mRNA.LAT-2;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	119518	120016	.	+	.	ID=exon1;Parent=mRNA.LAT-3;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	120373	121470	.	+	.	ID=exon2;Parent=mRNA.LAT-3;gbkey=exon
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	131906	133850	.	+	.	ID=US1;Name=US1;gbkey=Gene;gene=US1;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	131906	133850	.	+	.	ID=mRNA.US1-1;Name=US1-1;Parent=US1;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	131906	132126	.	+	.	ID=exon1;Parent=mRNA.US1-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	132430	133850	.	+	.	ID=exon2;Parent=mRNA.US1-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	132533	133795	.	+	0	ID=cds1;Parent=mRNA.US1-1;gbkey=CDS;gene=US1;product=regulatory protein ICP22;protein_id=ALO18657.1
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	134871	137429	.	+	.	ID=US3/4;Name=US3/4;gbkey=Gene;gene=US3/4;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	134871	137429	.	+	.	ID=mRNA.US3-1;Name=US3;Parent=US3/4;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	136629	137429	.	+	.	ID=mRNA.US4-1;Name=US4;Parent=US3/4;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	134871	137429	.	+	.	ID=exon1;Parent=mRNA.US3-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	136629	137429	.	+	.	ID=exon1;Parent=mRNA.US4-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	135110	136555	.	+	0	ID=cds-ALO18659.1;Parent=mRNA.US3-1;gbkey=CDS;gene=US3;product=serine/threonine protein kinase US3;protein_id=ALO18659.1
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	136632	137351	.	+	0	ID=cds-ALO18660.1;Parent=mRNA.US4-1;gbkey=CDS;gene=US4;product=envelope glycoprotein G;protein_id=ALO18660.1
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	137582	140925	.	+	.	ID=US5/6/7;Name=US5/6/7;gbkey=Gene;gene=US5/6/7;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	137582	140925	.	+	.	ID=mRNA.US5-1;Name=US5;Parent=US5/6/7;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	138244	140925	.	+	.	ID=mRNA.US6-1;Name=US6;Parent=US5/6/7;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	139599	140925	.	+	.	ID=mRNA.US7-1;Name=US7;Parent=US5/6/7;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	137582	140925	.	+	.	ID=exon1;Parent=mRNA.US5-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	138244	140925	.	+	.	ID=exon1;Parent=mRNA.US6-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	139599	140925	.	+	.	ID=exon1;Parent=mRNA.US7-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	137622	137900	.	+	0	ID=cds-ALO18661.1;Parent=mRNA.US5-1;gbkey=CDS;gene=US5;product=envelope glycoprotein J;protein_id=ALO18661.1
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	138309	139493	.	+	0	ID=cds-ALO18662.1;Parent=mRNA.US6-1;gbkey=CDS;gene=US6;product=envelope glycoprotein D;protein_id=ALO18662.1
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	139674	140846	.	+	0	ID=cds-ALO18663.1;Parent=mRNA.US7-1;gbkey=CDS;gene=US7;product=envelope glycoprotein I;protein_id=ALO18663.1
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	141084	143593	.	+	.	ID=US8/8A/9;Name=US8/8A/9;gbkey=Gene;gene=US8/8A/9;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	141084	143593	.	+	.	ID=mRNA.US8-1;Name=US8;Parent=US8/8A/9;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	142540	143593	.	+	.	ID=mRNA.US8A-1;Name=US8A;Parent=US8/8A/9;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	143160	143593	.	+	.	ID=mRNA.US9-1;Name=US9;Parent=US8/8A/9;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	141084	143593	.	+	.	ID=exon1;Parent=mRNA.US8-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	142540	143593	.	+	.	ID=exon1;Parent=mRNA.US8A-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	143160	143593	.	+	.	ID=exon1;Parent=mRNA.US9-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	141145	142797	.	+	0	ID=cds-ALO18664.1;Parent=mRNA.US8-1;gbkey=CDS;gene=US8;product=envelope glycoprotein E;protein_id=ALO18664.1
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	142646	143125	.	+	0	ID=cds-ALO18665.1;Parent=mRNA.US8A-1;gbkey=CDS;gene=US8A;product=membrane protein US8A;protein_id=ALO18665.1
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	143215	143487	.	+	0	ID=cds-ALO18666.1;Parent=mRNA.US9-1;dgbkey=CDS;gene=US9;product=membrane protein US9;protein_id=ALO18666.1
+
+MF959544.1_HSV1-PattonUs11gfp	SB	gene	147576	151787	.	+	.	ID=RS1;Name=RS1;gbkey=Gene;gene=RS1;gene_biotype=protein_coding
+MF959544.1_HSV1-PattonUs11gfp	SB	mRNA	147576	151787	.	+	.	ID=mRNA.RS1-1;Name=RS1-1;Parent=RS1;gbkey=mRNA
+MF959544.1_HSV1-PattonUs11gfp	SB	exon	147576	151787	.	+	.	ID=exon1;Parent=mRNA.RS1-1;gbkey=exon
+MF959544.1_HSV1-PattonUs11gfp	SB	CDS	147819	151724	.	+	0	ID=cds-ALO18670.1;Parent=mRNA.RS1-1;gbkey=CDS;gene=RS1;product=transcriptional regulator ICP4;protein_id=ALO18670.1
+
+
+
